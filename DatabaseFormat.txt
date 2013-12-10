@@ -1,0 +1,44 @@
+/*******DATABASE FORMAT*******/
+
+
+####    Team Number
+""      TeamName
+""      BotShape
+""      LauncherType
+""      DriveType
+""      Comments
+#   Games Played
+#   Wins
+#   Missed Shots
+#   Top Shots
+#   Mid Shots
+#   Low Shots
+#   Bump Traversals
+#   Penalties
+#   Defensive Maneuvers
+#   Solo Balances
+#   Co-op Balances
+#   Double Balances
+#   Robot Breakdowns
+
+
+/*******EXAMPLE*********/
+3756
+RamFerno
+Long
+One wheel, backspin
+8 wheel skid
+Really neat bot! Impressive balancing.
+18
+14
+24
+50
+4
+1
+12
+1
+5
+3
+8
+2
+0

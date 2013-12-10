@@ -1,0 +1,140 @@
+********************************
+******* Help Menu ********
+********************************
+
+
+Section 1.
+	
+************************
+**** Welcome Screen ****
+************************
+
+Functions of Welcome Screen:
+
+1. NEW
+
+Creates a new file for the user. This file is saved under a generic name, where the user can subsequently change the title. 
+The user is then directed to the Home screen.
+
+2. OPEN
+
+A file chooser prompts the user to select a text file to be read by the program. 
+The user is directed to the Home screen where the table is populated with all the data from the user's file.
+
+3. HELP
+
+Opens the help file.
+
+4. CLOSE
+
+Closes the program.
+
+-------------------------------------------------------------------------------------------------------------
+
+Section 2. 
+
+*********************
+**** Home Screen ****
+*********************
+
+Functions of Home Screen
+
+1. THE TABLE
+
+The table in the centre of the Home screen will be automatically updated with the data from each of the robots as they are scouted by the user. 
+If there is nothing present, the user has no data in their text file. The table can be sorted by clicking any of the column headers. 
+Columns can also be rearranged to suit the user's preference.
+
+2. SCOUT MATCH
+
+The scout match button will redirect the user to the Scouter screen.
+
+3. IMPORT
+
+The import button will open a file chooser that prompts the user to select a file to open. 
+Data will be read from the file and populate the table appropriately.
+
+4. EXPORT
+
+A message will appear instructing the user on how to move files from computer to computer.
+
+5. SEARCH FOR TEAM
+
+To search for a team's profile by it's number, the user must type in the team's number in the search bar, then click GO or hit the enter key on their keyboard. 
+If the team exists in the user's records, the user will be redirected to that team's profile. 
+If the team does not exist in the user's records, a message will tell the user that the team does not exist in the user's records.
+
+-------------------------------------------------------------------------------------------------------------
+
+Section 3. 
+
+************************
+**** Scouter Screen ****
+************************
+
+Functions of the Scouter
+	
+1. HOW TO USE THE SCOUTER SCREEN
+
+The user should follow the following steps to properly use the Scouter screen.
+
+	a) Enter the team number for all three teams in the appropriate text boxes at the top of each scouting fields.
+
+	b) Increment stats as necessary during the match. 
+
+	c) Select which kind of balance each robot achieved using the Balance option buttons.
+
+	d) Specify whether or not the robot became disabled during the match using the "Broke Down?" check box.
+
+	e) Specify whether or not the robot won using the Win/Loss option buttons.
+
+	f) Click the SUBMIT button to update all the stats for the robot.
+
+2. HELP
+
+Clicking the help button will open the help message.
+
+3. BACK
+
+Clicking the back button will return the user to the Home screen. 
+
+-------------------------------------------------------------------------------------------------------------
+
+Section 4. 
+
+************************************
+**** Team Profile Screen ****
+************************************
+
+Functions of the TeamProfile screen
+
+1. PICTURE
+
+The program searches for a file with the corresponding team name (ex. 3756.jpg). 
+If no file can be found, a message instructing the user on how to save the picture properly will be displayed instead.
+
+2. SPECIFICATIONS
+
+The robot's build specifications including shape, launcher type, and drive type will be displayed on the screen. 
+Clicking the EDIT buttons will allow the user to change the description of the robot's components.
+
+3. TABLE OF STATS
+
+	A table will display all of the robot's stats as recorded by the user. This table can be edited on the Scout screen.
+
+4. SHOW IN TABLE
+
+The show in table check box allows the user to specify whether or not they would like to omit the specified robot from the table of data. 
+If checked, the robot's stats will not be showed in the table. If unchecked, the robot's stats will be included in the table.
+
+5. DELETE
+
+The delete button allows the user to completely remove the active profile from the database.
+
+6. HELP
+
+Clicking the help button will open the help message.
+
+7. BACK
+
+Clicking the back button will return the user to the Home screen.
